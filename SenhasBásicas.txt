@@ -1,4 +1,6 @@
 012345678
+1234567890
+123456789
 0987654321
 15253545
 10203040
@@ -6,4 +8,16 @@
 deusnocomando
 Deusnocomando
 DEUSNOCOMANDO
-
+flamengo
+Flamengo
+FLAMENGO
+flamengo123
+Corinthians
+CORINTHIANS
+corinthians
+corinthians123
+Palmeiras
+PALMEIRAS
+palmeiras
+palmeiras123
+senha123
